@@ -55,7 +55,7 @@
         android:layout_marginBottom="10dp"
         android:background="@drawable/start_pause_btn"
         android:textColor="@color/white"
-        android:text="@string/startpause_btn"
+        android:text="@string/start_btn"
         android:textAllCaps="false"/>
 
     <android.widget.Button
